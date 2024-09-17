@@ -1,0 +1,60 @@
+1.Qual é o principal objetivo da camada de rede no modelo OSI?
+(b) Gerenciar endereçamento e roteamento de pacotes
+
+2.Qual dos protocolos abaixo é usado para conversão de endereços MAC para endereços IP?
+(c) ARP
+
+3.Qual é o tamanho de um endereço IP no protocolo IPv4?
+(b) 32 bits
+
+4.O que diferencia o IPv6 do IPv4?
+(c) Aumenta o número de endereços disponíveis
+
+5.Qual protocolo é responsável pelo mapeamento de nomes de domínio para endereços IP?
+(c) DNS
+
+6.Qual é a função do protocolo ICMP?
+(b) Controle de mensagens de erro e testes de rede
+
+7.Em uma rede TCP/IP, o que define o endereço de broadcast?
+(b) Um endereço com todos os bits definidos como 1
+
+8.Qual é a máscara de sub-rede padrão para uma rede Classe C?
+(c) 255.255.255.0
+
+9.Qual camada do modelo OSI se relaciona com o roteamento de pacotes entre redes?
+(c) Camada de Rede
+
+10.Qual protocolo é utilizado para configurar dinamicamente endereços IP em dispositivos de rede?
+(c) DHCP
+
+11.O que caracteriza uma rede local (LAN)?
+(b) Conecta dispositivos dentro de uma área geograficamente limitada, como um prédio
+
+12.Qual é a função principal de um switch em uma rede?
+(b) Encaminhamento de quadros dentro de uma rede local
+
+13.Qual é o propósito do protocolo SNMP em uma rede?
+(a) Gerenciamento e monitoramento de dispositivos de rede
+
+14.Qual das opções a seguir é uma característica do modelo de rede peer-to-peer?
+(b) Todos os dispositivos atuam como cliente e servidor
+
+15.O que define um endereço IP de loopback em uma rede?
+(b) Um endereço na faixa 127.0.0.0
+
+16.Qual das opções a seguir é um exemplo de uma classe de endereço IP Classe A?
+(b) 10.0.0.1
+
+17.Qual protocolo é usado para envio de mensagens de erro e diagnósticos de rede, como o comando "ping"?
+(a) ICMP
+
+18. Qual a função do protocolo TCP em uma rede?
+
+(c) Garantir a entrega ordenada e confiável de pacotes.
+19. Qual é o endereço de IP reservado para broadcast em uma rede com máscara 255.255.255.0?
+
+(b) 192.168.0.255.
+20. Em redes locais, o que caracteriza o modelo cliente-servidor?
+
+(b) Um dispositivo centralizado fornece serviços para outros.
